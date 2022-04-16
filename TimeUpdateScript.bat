@@ -7,7 +7,7 @@ echo  /_/ /_/_/_/_/\__/\____/ .__/\_,_/\_,_/\__/\__/___/\__/_/ /_/ .__/\__/
 echo                       /_/                                  /_/  
 echo.		    	 	
 echo.	  	       													
-echo by TG 		Github: https://github.com/tim-gruszczynski/TimeUpdateScript  
+echo by TG 		Github: https://github.com/TG-scripts/TimeUpdateScript  
 echo.
 echo Version 1.1                                                                                                                                                                                                                                                                        
                                                                                                                                    
